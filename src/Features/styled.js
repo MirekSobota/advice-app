@@ -4,8 +4,6 @@ import { ReactComponent as PatternDividerMobile } from "../assets/pattern-divide
 import { ReactComponent as IconDice } from "../assets/icon-dice.svg";
 
 export const Container = styled.div`
-  min-width: 500px;
-  min-height: 300px;
   margin: auto;
   padding: 16px;
   background: hsl(217, 19%, 24%);
@@ -21,8 +19,8 @@ export const Container = styled.div`
   justify-content: space-between;
 
   @media (max-width: 640px) {
-    min-width: auto;
-    min-height: auto;
+    min-width: 300px;
+    padding: 40px 20px 60px;
   }
 `;
 
