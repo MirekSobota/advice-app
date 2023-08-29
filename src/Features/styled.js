@@ -50,7 +50,7 @@ export const Circle = styled.button`
   transform: translate(-50%, 50%);
 
   &:hover {
-    box-shadow: 0 0 15px #FFFFFF;
+    box-shadow: 0 0 15px hsl(150, 100%, 66%);
   }
   
 `;
