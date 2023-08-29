@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/advice-app/static/js/main.96e399b0.js",
+    "main.js": "/advice-app/static/js/main.266453e5.js",
     "static/js/787.c0e236f3.chunk.js": "/advice-app/static/js/787.c0e236f3.chunk.js",
     "index.html": "/advice-app/index.html",
     "static/media/icon-dice.svg": "/advice-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
     "static/media/pattern-divider-mobile.svg": "/advice-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
     "static/media/pattern-divider-desktop.svg": "/advice-app/static/media/pattern-divider-desktop.2a3cdc48aa96adb143b5ad30f7c905ed.svg",
-    "main.96e399b0.js.map": "/advice-app/static/js/main.96e399b0.js.map",
+    "main.266453e5.js.map": "/advice-app/static/js/main.266453e5.js.map",
     "787.c0e236f3.chunk.js.map": "/advice-app/static/js/787.c0e236f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.96e399b0.js"
+    "static/js/main.266453e5.js"
   ]
 }
