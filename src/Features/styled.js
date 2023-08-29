@@ -19,6 +19,11 @@ export const Container = styled.div`
   align-items: center;
   padding: 40px 40px 60px;
   justify-content: space-between;
+
+  @media (max-width: 640px) {
+    min-width: auto;
+    min-height: auto;
+  }
 `;
 
 export const Header = styled.p`
@@ -52,12 +57,15 @@ export const Circle = styled.button`
   &:hover {
     box-shadow: 0 0 15px hsl(150, 100%, 66%);
   }
+`;
+
+export const DividerDesktop = styled(PatternDividerDesktop)`
+  width: 444px;
+  height: 16px;
   
+  @media (max-width: 640px) {
+    display: none;
+  }
 `;
 
-
-
-export const DividerDesktop = styled(PatternDividerDesktop)``;
-
-export const DiceIcon = styled(IconDice)`
-`;
+export const DiceIcon = styled(IconDice)``;
